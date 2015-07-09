@@ -24,19 +24,19 @@
         <ul> 
     <li><a href="http://www.dongyeonkim.kr"  class="selected" >Home</a></li> 
   
+  	<li><a href="#work">Work Experience</a></li> 
+    
 	<li><a href="#education">Education</a></li> 
     
-	<li><a href="#work">Work Experience</a></li> 
-    
-    <li><a href="#publications">Publications</a></li> 
+	<li><a href="#publications">Publications</a></li> 
     
    	<li><a href="#info">Additional Info</a></li> 
 </ul>        
        <div class="rightLower"> 
             <p> 
-            	<a href="http://www.twitter.com/spacegrapher">twitter</a> &nbsp; &nbsp; 
-                <a href="http://www.facebook.com/spacegrapher">facebook</a> &nbsp; &nbsp;
-                <a href="mailto:spacegrapher@gmail.com">email</a>
+            	<a href="https://github.com/spacegrapher" target="_blank">github</a>&nbsp; &nbsp;
+                <a href="https://kr.linkedin.com/in/dongyeonkim" target="_blank">linkedin</a>&nbsp; &nbsp;
+                <a href="mailto:spacegrapher@gmail.com" target="_blank">email</a>
             </p> 
         </div> 
     </div> 
@@ -50,14 +50,37 @@
       <div style="width:170px; height:1150px; top:50px; position:relative; left:620px"> 
 
         <img src="image/profile.jpg" width="170" border="0" 
-            style="border:0;position:absolute;top:0px;z-index:3;left:0px"/></div> 
-      <div style="width:170px; height:170px; position:absolute; left:620px; top:250px; text-align: center;"><script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/pub/dongyeon-kim/2b/48/33a" data-format="hover" data-text="Dongyeon Kim"></script>
-<p><a href="http://spiff.linknow.kr" target="_blank"><img src="http://www.linknow.kr/weblink/img/profile/banner_120X25.png" width="120" height="25" border="0" alt=""></a></p>
-      </div>
-        <div style="width:610px; height:1150px; position:absolute; top:0; left:0; z-index:4"><!--/div-->
+            style="border:0;position:absolute;top:0px;z-index:3;left:0px"/></div>
+      <div style="width:610px; height:1150px; position:absolute; top:0; left:0; z-index:4"><!--/div-->
 
-          <h2> 
+		<h2> 
+          <a name="work" id="work"></a>Work  Experience </h2> 
+        <ul>
+        <li> 
+            <a href="http://www.samsung.com/sec" target="_blank"><strong>Samsung Electronics</strong></a>, Suwon, South Korea<br />
+            Senior Engineer<br />
+            Mar 2015
+            - Present<br />
+            Tizen Platform Graphics &amp; UI Development<br>
+            EFL open source contributor</li>
+        <li><a href="http://www.samsung.com/sec" target="_blank"><strong>Samsung Electronics</strong></a>, Suwon, South Korea<br />
+Assistant Engineer<br />
+Oct 2011
+            - Feb 2015<br>
+            Tizen Platform Graphics &amp; UI Development<br>
+            EFL Evas GL Backend Development<br>
+            cairo Open Source 2D Graphics Library GL Backend Development<br>
+            Tizen EGL Extension Development<br>
+            OpenGL ES Application Development            <br />
+        </li>
+          <li> 
+            <a href="http://www.digitalaria.com" target="_blank"><strong>Digital Aria</strong></a>, Seongnam, South Korea<br />
+            Assistant Research Engineer<br />
+            Jan 2009
+            - Sep 2011<br />
+            Developing OpenGL ES, OpenVG-based 3D rendering engine for the embedded GUI middleware solution that runs on various platforms such as Android and Linux.</li>
+        </ul>
+        <h2> 
           <a name="education" id="education"></a>Education </h2> 
         <ul>
           <li> 
@@ -75,22 +98,7 @@
             Mar 2003 - Feb 2007
           </li>
         </ul>
-        <h2> 
-          <a name="work" id="work"></a>Work  Experience </h2> 
-        <ul>
-        <li> 
-            <a href="http://www.samsung.com/sec" target="_blank"><strong>Samsung Electronics</strong></a>, Suwon, South Korea<br />
-            Engineer<br />
-            Oct 2011
-            - Present<br />
-            Tizen Platform, Graphics</li>
-          <li> 
-            <a href="http://www.digitalaria.com" target="_blank"><strong>Digital Aria</strong></a>, Seongnam, South Korea<br />
-            Assistant Research Engineer<br />
-            Jan 2009
-            - Sep 2011<br />
-            Developing OpenGL ES, OpenVG-based 3D rendering engine for the embedded GUI middleware solution that runs on various platforms such as Android and Linux.</li>
-        </ul>
+        
 <h2> 
           <a name="publications" id="publications"></a>Publications </h2>
 <ul>
@@ -102,7 +110,9 @@
           <li>Creator of iOS Application &quot;Airport Info Korea&quot;<br>
             <a href="http://itunes.apple.com/gb/app/id379784630?mt=8" target="_blank">http://itunes.apple.com/gb/app/id379784630?mt=8</a></li>
           <li>Active TED Translator<br>
-            <a href="http://www.ted.com/profiles/444483" target="_blank">http://www.ted.com/profiles/444483</a><br>
+          <a href="http://www.ted.com/profiles/444483" target="_blank">http://www.ted.com/profiles/444483</a></li>
+          <li>Travelog in Korean<br>
+            <a href="http://www.thinkingbox.net/wordpress" target="_blank">http://www.thinkingbox.net/wordpress</a><br>
           </li>
         </ul>
         </div> 
@@ -114,15 +124,10 @@
         <div class="container"> 
    <div id="almostEnd"> 
         <a href="http://www.dongyeonkim.kr">Home</a> &nbsp;|&nbsp; 
-        <a href="#education">Education</a> &nbsp;|&nbsp; 
         <a href="#work">Work Experience</a> &nbsp;|&nbsp; 
+        <a href="#education">Education</a> &nbsp;|&nbsp; 
         <a href="#publications">Publications</a> &nbsp;|&nbsp; 
         <a href="#info">Additional Info</a> 
-    </div> 
-    <div id="end"> 
-        <a href="http://twitter.com/spacegrapher">twitter</a> &nbsp;
-        <a href="http://www.facebook.com/spacegrapher">facebook</a> &nbsp;
-        <a href="mailto:spacegrapher@gmail.com">email</a> 
     </div> 
     <div id="legal"> 
         <p> 
